@@ -22,8 +22,6 @@ Beyond serving as the official digital accompaniment for the Eagle Scout Board o
 
 ---
 
-## 📄 Resume-Ready Experience Bullets
-
 ### Project Management & Engineering Leadership (Eagle Scout Candidate)
 - **Field Leadership & Volunteer Direction**: Supervised the design, material preparation, and safe structural elevation of two predator-proof bat conservation houses, directing **11 youth and adult volunteers** over **133.5 total labor hours** with **zero safety incidents**.
 - **Ecological Engineering & Specifications**: Formulated thermal and structural specifications to maximize colony adoption: engineered structures with **12-foot predator-resistant ground clearance**, **Southeast solar alignment** (capturing 6–8 hours of morning warmth), and **dark-toned pressure-treated timber** to sustain critical 85°F–100°F maternity roost temperatures.
@@ -133,7 +131,7 @@ Open `http://localhost:8000` in your web browser.
 
 ---
 
-## 🎯 Core Competencies Demonstrated
+## Core Competencies Demonstrated
 
 | Technical Competencies | Leadership & Management Competencies |
 | :--- | :--- |
@@ -145,7 +143,7 @@ Open `http://localhost:8000` in your web browser.
 
 ---
 
-## 📬 Contact & Project Verification
+## Contact & Project Verification
 
 - **Eagle Scout**: Austin Mirando (`austinjmirando@gmail.com`)
 - **Unit**: Troop 454, American River District, Golden Empire Council, Boy Scouts of America
