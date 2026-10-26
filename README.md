@@ -1,4 +1,4 @@
-# 🦇 Eagle Scout Service Project Portfolio & Showcase
+# ![Eagle Scout Badge](https://gonebatty.vercel.app/images/eagle-scout-badge.png) Eagle Scout Service Project Portfolio & Showcase
 ## Wildlife Habitat & Conservation Initiative ("Gone Batty")
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -24,22 +24,20 @@ Beyond serving as the official digital accompaniment for the Eagle Scout Board o
 
 ## 📄 Resume-Ready Experience Bullets
 
-*Formatted in standard Google XYZ format (**"Accomplished [X] as measured by [Y], by doing [Z]"**) for direct use on software engineering, product management, and leadership resumes.*
-
-### 🛠️ Project Management & Engineering Leadership (Eagle Scout Candidate)
+### Project Management & Engineering Leadership (Eagle Scout Candidate)
 - **Field Leadership & Volunteer Direction**: Supervised the design, material preparation, and safe structural elevation of two predator-proof bat conservation houses, directing **11 youth and adult volunteers** over **133.5 total labor hours** with **zero safety incidents**.
 - **Ecological Engineering & Specifications**: Formulated thermal and structural specifications to maximize colony adoption: engineered structures with **12-foot predator-resistant ground clearance**, **Southeast solar alignment** (capturing 6–8 hours of morning warmth), and **dark-toned pressure-treated timber** to sustain critical 85°F–100°F maternity roost temperatures.
 - **Problem Solving & Field Adaptation**: Overcame heavily compacted, rocky soil at Lake Forest Park by procuring a towable hydraulic auger, coordinating sledgehammer-driven steel rebar ground anchors, and establishing an on-site municipal water connection with park staff.
 - **Stakeholder Collaboration & Sponsorship**: Partnered with the **El Dorado Hills Community Services District (CSD)** for site permits and negotiated 100% self-funded project support—securing timber donations from ProBuilders (Placerville), catering from Steve's Pizza, and hardware discounts from Home Depot ($0 cost to the municipal beneficiary).
 
-### 💻 Frontend Web Development (Portfolio Web App)
+### Frontend Web Development (Portfolio Web App)
 - **Zero-Dependency Architecture**: Engineered a responsive, single-page portfolio using **vanilla HTML5, CSS3, and ES6+ JavaScript**, achieving near-instant load times with zero third-party framework overhead.
 - **Dynamic Interaction & Navigation**: Implemented fluid scroll-spy navigation and mobile drawer toggles powered by the native browser **`IntersectionObserver` API** and passive event listeners.
 - **Design System & A11y Standards**: Architected a maintainable CSS token design system utilizing CSS Custom Properties, CSS Grid / Flexbox layouts, fluid typography, and WCAG AA contrast compliance.
 
 ---
 
-## 📊 Verified Project Impact by the Numbers
+## Verified Project Impact by the Numbers
 
 | Metric | Official Record | Impact & Technical Details |
 | :--- | :--- | :--- |
@@ -54,14 +52,15 @@ Beyond serving as the official digital accompaniment for the Eagle Scout Board o
 
 ---
 
-## 🏛️ Technical Architecture & Stack
+## Technical Architecture & Stack
 
 ```
-eaglescout/
+/
 ├── index.html        # Semantic HTML5 (Hero, Mission, Technical Specs, Metrics, Phases, Gallery, Reflection, Contact)
 ├── styles.css        # CSS design token system, responsive grid/flexbox layouts, card hover micro-animations
 ├── script.js         # Lightweight ES6+ script (IntersectionObserver scroll-spy, drawer toggle, smooth scroll)
 └── README.md         # Comprehensive project documentation & resume-ready showcase
+images/               # Host of site images       
 ```
 
 ### Key Technical Implementations
@@ -76,7 +75,7 @@ eaglescout/
 
 ---
 
-## 🗓️ Project Milestones & Lifecycle
+## Project Milestones & Lifecycle
 
 ```mermaid
 gantt
@@ -108,12 +107,12 @@ gantt
 
 ---
 
-## 🚀 Quick Start & Local Preview
+## Quick Start & Local Preview
 
 This project requires **zero build tools or dependencies**.
 
 ### Option 1: Direct File Launch
-Simply double-click [`index.html`](file:///c:/Users/Austi/OneDrive/CodingProjects/AGY/eaglescout/index.html) in your file explorer or open it in any web browser.
+Simply double-click [`index.html`](/eaglescout/index.html) in your file explorer or open it in any web browser.
 
 ### Option 2: Local HTTP Server
 ```bash
@@ -130,7 +129,7 @@ Open `http://localhost:8000` in your web browser.
 1. Go to repository **Settings** > **Pages**.
 2. Under **Build and deployment** > **Source**, choose **Deploy from a branch**.
 3. Select `main` branch and `/ (root)` folder, then click **Save**.
-4. The site will be live at `https://austinhttps.github.io/gonebatty-eaglescout/`.
+4. The site will be live at `https://username.github.io/gonebatty-eaglescout/`.
 
 ---
 
@@ -148,9 +147,9 @@ Open `http://localhost:8000` in your web browser.
 
 ## 📬 Contact & Project Verification
 
-- **Eagle Scout Candidate**: Austin Mirando (`karatemaster0316@gmail.com`)
+- **Eagle Scout**: Austin Mirando (`austinjmirando@gmail.com`)
 - **Unit**: Troop 454, American River District, Golden Empire Council, Boy Scouts of America
-- **Scoutmaster**: Keith Underwood (`linkaide@gmail.com`)
+- **Scoutmaster**: Keith Underwood
 - **Unit Committee Chair**: Denise Johnson
 - **Beneficiary**: El Dorado Hills Community Services District (EDH CSD)
 - **Beneficiary Representative**: Chelsea Harrison (`charrison@edhcsd.org` • 1021 Harvard Way, El Dorado Hills, CA 95762)
