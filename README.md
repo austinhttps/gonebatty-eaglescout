@@ -5,7 +5,7 @@
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)](#technical-architecture)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)](#technical-architecture)
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black)](#technical-architecture)
-[![BSA](https://img.shields.io/badge/BSA-Eagle%20Scout%20Project-1b3d2b?logo=scouts&logoColor=white)](#leadership--project-impact)
+[![Scouting America](https://img.shields.io/badge/BSA-Eagle%20Scout%20Project-1b3d2b?logo=scouts&logoColor=white)](#leadership--project-impact)
 [![Status](https://img.shields.io/badge/Status-Completed%20(Sept%202023)-success)](#project-milestones)
 
 > **Interactive digital portfolio and technical showcase documenting the ecological engineering, community partnerships, field logistics, and volunteer leadership behind Austin Mirando's Eagle Scout Service Project at Lake Forest Park in El Dorado Hills, CA.**
