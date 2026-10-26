@@ -3,13 +3,104 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="description" content="Eagle Scout Service Project Portfolio - Gone Batty: Wildlife Habitat & Conservation Initiative by Austin Mirando at Lake Forest Park, El Dorado Hills, CA." />
-  <title>Eagle Scout Service Project: Gone Batty | Austin Mirando</title>
+  
+  <!-- Primary SEO Meta Tags -->
+  <title>Eagle Scout Service Project Portfolio | Gone Batty – Austin Mirando</title>
+  <meta name="title" content="Eagle Scout Service Project Portfolio | Gone Batty – Austin Mirando" />
+  <meta name="description" content="Official Eagle Scout Service Project Portfolio for Austin Mirando (Troop 454, Golden Empire Council). Wildlife Habitat &amp; Conservation Initiative ('Gone Batty') – Designing, fabricating, and safely elevating predator-proof bat houses at Lake Forest Park in El Dorado Hills, CA." />
+  <meta name="keywords" content="Austin Mirando, Eagle Scout Service Project, Gone Batty, Bat Conservation, Lake Forest Park, El Dorado Hills CSD, Scouting America, Troop 454, Golden Empire Council, Predator-Proof Bat Boxes, Wildlife Conservation, Community Service" />
+  <meta name="author" content="Austin Mirando" />
+  <meta name="robots" content="index, follow" />
+  <link rel="canonical" href="https://austinhttps.github.io/gonebatty-eaglescout/" />
 
+  <!-- Mobile & Browser Theme -->
+  <meta name="theme-color" content="#1b3d2b" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" sizes="32x32" href="images/favicon.png" />
+  <link rel="icon" type="image/png" sizes="16x16" href="images/favicon.png" />
+  <link rel="apple-touch-icon" href="images/favicon.png" />
+
+  <!-- Open Graph / Facebook / LinkedIn / Discord -->
+  <meta property="og:type" content="website" />
+  <meta property="og:site_name" content="Austin Mirando Eagle Scout Portfolio" />
+  <meta property="og:url" content="https://austinhttps.github.io/gonebatty-eaglescout/" />
+  <meta property="og:title" content="Eagle Scout Service Project Portfolio | Austin Mirando ('Gone Batty')" />
+  <meta property="og:description" content="Wildlife Habitat &amp; Conservation Initiative ('Gone Batty') at Lake Forest Park in El Dorado Hills, CA. Designing, fabricating, and safely elevating predator-proof bat conservation structures." />
+  <meta property="og:image" content="https://austinhttps.github.io/gonebatty-eaglescout/images/hero-team.jpg" />
+  <meta property="og:image:alt" content="Austin Mirando Eagle Scout Volunteer Team" />
+  <meta property="og:locale" content="en_US" />
+
+  <!-- Twitter Cards -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:url" content="https://austinhttps.github.io/gonebatty-eaglescout/" />
+  <meta name="twitter:title" content="Eagle Scout Service Project: 'Gone Batty' | Austin Mirando" />
+  <meta name="twitter:description" content="Wildlife Habitat &amp; Conservation Initiative ('Gone Batty') at Lake Forest Park in El Dorado Hills, CA." />
+  <meta name="twitter:image" content="https://austinhttps.github.io/gonebatty-eaglescout/images/hero-team.jpg" />
+
+  <!-- Structured Data (JSON-LD) for Search Engines -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "ProfilePage",
+        "@id": "https://austinhttps.github.io/gonebatty-eaglescout/#webpage",
+        "url": "https://austinhttps.github.io/gonebatty-eaglescout/",
+        "name": "Eagle Scout Service Project Portfolio | Gone Batty – Austin Mirando",
+        "description": "Eagle Scout Service Project portfolio for Austin Mirando documenting the Wildlife Habitat & Conservation Initiative ('Gone Batty') in El Dorado Hills, CA.",
+        "breadcrumb": {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://austinhttps.github.io/gonebatty-eaglescout/"
+            }
+          ]
+        },
+        "mainEntity": {
+          "@type": "Person",
+          "name": "Austin Mirando",
+          "jobTitle": "Eagle Scout",
+          "affiliation": {
+            "@type": "Organization",
+            "name": "Scouting America (Troop 454, Golden Empire Council)"
+          },
+          "email": "mailto:austinjmirando@gmail.com"
+        }
+      },
+      {
+        "@type": "Project",
+        "name": "Wildlife Habitat & Conservation Initiative (\"Gone Batty\")",
+        "description": "Design, construction, and safe installation of two predator-proof bat conservation houses elevated 12 feet at Lake Forest Park in El Dorado Hills, CA.",
+        "location": {
+          "@type": "Place",
+          "name": "Lake Forest Park",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "El Dorado Hills",
+            "addressRegion": "CA",
+            "postalCode": "95762",
+            "addressCountry": "US"
+          }
+        },
+        "sponsor": {
+          "@type": "GovernmentOrganization",
+          "name": "El Dorado Hills Community Services District (EDH CSD)"
+        }
+      }
+    ]
+  }
+  </script>
+
+  <!-- Google Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Plus+Jakarta+Sans:wght@600;700;800&display=swap" rel="stylesheet" />
-  <link rel="icon" type="image/x-icon" href="">
 
   <link rel="stylesheet" href="styles.css" />
 </head>
@@ -18,7 +109,7 @@
   <nav class="navbar" id="navbar">
     <div class="nav-container">
       <a href="#home" class="nav-logo">
-        <span class="logo-badge"></span>
+        <img src="images/eagle-scout-badge.png" alt="Eagle Scout Rank Emblem - Scouting America" class="nav-badge-img" />
         <span class="logo-text">Gone Batty</span>
       </a>
 
@@ -39,7 +130,10 @@
         <span></span>
       </button>
     </div>
-  </nav>-->
+  </nav>
+
+  <!-- Mobile Backdrop Overlay -->
+  <div class="nav-overlay" id="nav-overlay" aria-hidden="true"></div>
 
   <main>
     <header class="hero-section" id="home">
@@ -53,6 +147,9 @@
       </div>
 
       <div class="container hero-content">
+        <div class="hero-emblem-wrap">
+          <img src="images/eagle-scout-badge.png" alt="Official Eagle Scout Rank Emblem - Scouting America" class="hero-emblem-img" />
+        </div>
         <p class="hero-tag">Scouting America • Troop 454 • Golden Empire Council</p>
         <h1 class="hero-title">Eagle Scout Service Project Portfolio</h1>
         <p class="hero-subtitle">
@@ -424,6 +521,9 @@
     <section class="section section-contact" id="contact">
       <div class="container">
         <div class="contact-card">
+          <div class="contact-badge-header">
+            <img src="images/eagle-scout-badge.png" alt="Official Eagle Scout Rank Badge - Scouting America" class="contact-badge-img" />
+          </div>
           <h2>Contact &amp; Verification</h2>
           <p class="contact-desc">
             Documentation, official workbook verification, and Eagle Scout Board of Review records:
@@ -463,7 +563,8 @@
   <footer class="footer">
     <div class="container footer-content">
       <p class="footer-scout-info">
-        <strong>Austin Mirando</strong> • Eagle Scout • Troop 454 • Golden Empire Council, BSA
+        <img src="images/eagle-scout-badge.png" alt="Eagle Scout Rank Emblem" class="footer-badge-img" />
+        <strong>Austin Mirando</strong> • Eagle Scout • Troop 454 • Golden Empire Council, Scouting America
       </p>
       <p class="footer-copy">
         &copy; 2023–2026 Austin Mirando. Wildlife Habitat &amp; Conservation Initiative ("Gone Batty"). Lake Forest Park, El Dorado Hills, CA. All rights reserved.

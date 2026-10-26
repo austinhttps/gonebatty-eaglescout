@@ -210,6 +210,57 @@ a {
 }
 
 /* ==========================================================================
+   EAGLE SCOUT BADGE STYLES
+   ========================================================================== */
+.nav-badge-img {
+  width: 32px;
+  height: auto;
+  object-fit: contain;
+  filter: drop-shadow(0 1px 3px rgba(0, 0, 0, 0.15));
+}
+
+.hero-emblem-wrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 1.25rem;
+}
+
+.hero-emblem-img {
+  width: 96px;
+  height: auto;
+  object-fit: contain;
+  filter: drop-shadow(0 8px 20px rgba(0, 0, 0, 0.45));
+  transition: transform var(--transition);
+}
+
+.hero-emblem-img:hover {
+  transform: scale(1.05) translateY(-2px);
+}
+
+.contact-badge-header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 1.25rem;
+}
+
+.contact-badge-img {
+  width: 68px;
+  height: auto;
+  object-fit: contain;
+  filter: drop-shadow(0 4px 10px rgba(0, 0, 0, 0.12));
+}
+
+.footer-badge-img {
+  width: 22px;
+  height: auto;
+  vertical-align: middle;
+  margin-right: 0.4rem;
+  display: inline-block;
+}
+
+/* ==========================================================================
    BUTTONS
    ========================================================================== */
 .btn {
