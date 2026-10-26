@@ -636,7 +636,20 @@ a {
 
 .tag-before { background-color: rgba(31, 36, 33, 0.85); }
 .tag-work { background-color: rgba(22, 40, 70, 0.85); }
-.tag-after { background-color: rgba(27, 61, 43, 0.9); }
+.tag-after { 
+  background-color: rgba(27, 61, 43, 0.9);
+  left: auto;
+  right: 0.65rem;
+}
+
+.photo-tag.tag-right {
+  left: auto;
+  right: 0.65rem;
+}
+
+.photo-wrap img.img-roost {
+  object-position: 25% 35%;
+}
 
 .photo-text {
   padding: 1.15rem;
