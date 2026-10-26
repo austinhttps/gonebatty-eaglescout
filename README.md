@@ -150,7 +150,7 @@ Open `http://localhost:8000` in your web browser.
 - **Scoutmaster**: Keith Underwood
 - **Unit Committee Chair**: Denise Johnson
 - **Beneficiary**: El Dorado Hills Community Services District (EDH CSD)
-- **Beneficiary Representative**: Chelsea Harrison (`charrison@edhcsd.org` • 1021 Harvard Way, El Dorado Hills, CA 95762)
+- **Beneficiary Representative**: Chelsea Harrison
 - **Project Location**: Lake Forest Park, El Dorado Hills, CA
 - **Repository**: [austinhttps/gonebatty-eaglescout](https://github.com/austinhttps/gonebatty-eaglescout)
 - **Documentation**: Official BSA Eagle Scout Service Project Workbook (February 2023 ed.) verified and approved.
