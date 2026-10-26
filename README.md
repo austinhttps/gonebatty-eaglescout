@@ -1,4 +1,4 @@
-# ![Eagle Scout Badge](https://gonebatty.vercel.app/images/eagle-scout-badge.png) Eagle Scout Service Project Portfolio & Showcase
+# <img src="https://gonebatty.vercel.app/images/eagle-scout-badge.png" height="28" align="middle"> Eagle Scout Service Project Portfolio & Showcase
 ## Wildlife Habitat & Conservation Initiative ("Gone Batty")
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
